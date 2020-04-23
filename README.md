@@ -14,8 +14,6 @@ barcode_scan, sqflite, path_provider, url_launcher, flutter_map (MapBox), Stream
 
 <img src="https://raw.githubusercontent.com/Arcangel1994/Flutter-QR-Reader/master/assets/Screenshot_20200423_180656_com.example.qrreaderapp.jpg" /> <br>
 
-<img src="https://raw.githubusercontent.com/Arcangel1994/Flutter-QR-Reader/master/assets/Screenshot_20200423_180656_com.example.qrreaderapp.jpg" /> <br>
-
 <img src="https://raw.githubusercontent.com/Arcangel1994/Flutter-QR-Reader/master/assets/Screenshot_20200423_180552_com.example.qrreaderapp.jpg" /> <br>
 
 <img src="https://raw.githubusercontent.com/Arcangel1994/Flutter-QR-Reader/master/assets/Screenshot_20200423_180659_com.android.chrome.jpg" /> <br>
